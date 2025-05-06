@@ -5,7 +5,7 @@ $sourcePath = "C:\Users\kalpa\OneDrive\Documents\Blog posts\Posts"
 $destinationPath = "C:\Users\kalpa\Documents\arinblog1\content\posts"
 
 # Set Github repo 
-$myrepo = "git@github.com/brick2345/arinblog3.git"
+$myrepo = "git@github.com:brick2345/arinblog3.git"
 
 # Set error handling
 $ErrorActionPreference = "Stop"

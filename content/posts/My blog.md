@@ -15,7 +15,6 @@ test6
 
 hi 123
 
-i love arduino
 
 
 test5
